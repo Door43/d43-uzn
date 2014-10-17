@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uzn:home|Door43 (uzn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uzn|d43-uzn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uzn/archive/master.zip|d43-uzn.zip]]
+
+**Recent Changes**
+{{changes>ns = uzn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uzn|Ethnologue data]]
+
